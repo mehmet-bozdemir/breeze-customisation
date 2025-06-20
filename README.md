@@ -33,12 +33,15 @@ php artisan breeze:install
 composer require livewire/livewire
 composer require bjeavons/zxcvbn-php
 ```
-## Home page
+## Password generator
 <p align="center"> <img src="public/password-generator.png"></p>
 
-## Dashboard
+## Password visibility
+<p align="center"> <img src="public/password-visibility.png"></p>
+
+## Password strength estimator
 <p align="center"> <img src="public/password-strength-estimator.png"></p>
 
-## Create job listings
+## Password strength.
 <p align="center"> <img src="public/password-strength.png"></p>
 
